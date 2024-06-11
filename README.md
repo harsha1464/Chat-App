@@ -1,4 +1,4 @@
-Chat App
+##Chat App
 The Chat App is a full-stack chatting application that uses Socket.io for real-time communication and stores user details in an encrypted format in a MongoDB database.
 
 Tech Stack
